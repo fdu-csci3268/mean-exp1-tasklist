@@ -1,0 +1,33 @@
+{
+  "name": "mean_exp1_tasklist",
+  "version": "1.0.0",
+  "description": "MEAN experiment from scratch using MongoDB in mLab, mongojs as MongoDB ORM, ejs as template system, body-parser to accept data through form and submit to DB, AngularJS2 ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdu-csci3268/mean-exp1-tasklist.git"
+  },
+  "keywords": [
+    "mean",
+    "mongodb",
+    "mongojs",
+    "express",
+    "angularJS",
+    "angular2"
+  ],
+  "author": "{\"name\": \"ilker kiris\", \"email\": \"ilkerpublic@gmail.com\"}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdu-csci3268/mean-exp1-tasklist/issues"
+  },
+  "homepage": "https://github.com/fdu-csci3268/mean-exp1-tasklist#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "mongojs": "^2.4.0"
+  }
+}
